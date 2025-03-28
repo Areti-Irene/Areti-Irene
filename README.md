@@ -1,4 +1,3 @@
-```md
 ### 👋 Hello, I'm Areti-Irene!
 
 ---
@@ -23,5 +22,3 @@ I'm a passionate **programmer** skilled in **Python, Java, and Flutter**. With a
 🔗 [LinkedIn](#) | 🐦 [Twitter](#) | 💻 [Portfolio](#)  
 
 ✨ _“Code is like a survey – precise, structured, and always leading to the right path!”_ 🚀
-```
-
